@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/richardortizp/pruebadocker/issues"
   },
-  "homepage": "https://github.com/richardortizp/pruebadocker#readme"
+  "homepage": "https://github.com/richardortizp/pruebadocker#readme",
+  "dependencies": {
+    "jimp": "^1.6.0"
+  }
 }
